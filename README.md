@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm Camilo Noguera</h1>
 <h3 align="center">A Systems Engineer Student from Colombia</h3>
 
