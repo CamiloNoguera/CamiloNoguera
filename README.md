@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo Noguera</h1>
-<h3 align="center">A Systems Engineer Student from Colombia</h3>
+<h3 align="center">A Systems Engineer Student, Full Stack developer</h3>
 
 - 📫 How to reach me **camiloandresnoguerabuelvas@gmail.com**
 
