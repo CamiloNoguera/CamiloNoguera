@@ -6,9 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/camilonoguera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Profile" height="30" width="40" /></a>
-<a href="https://fb.com/camilo andres noguera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="camilo andres noguera" height="30" width="40" /></a>
-<a href="https://instagram.com/camilo_n2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="camilo_n2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/camilo noguera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camilo noguera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
